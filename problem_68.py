@@ -1,0 +1,1 @@
+# write a python program to get name of the day and show "holiday" if user input "sunday" , or "friday" =>
