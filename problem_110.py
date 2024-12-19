@@ -1,0 +1,1 @@
+# write a python program to get ten name of the students from the user in a list , and display that students name in descending order with removing the frist and last student name by using different function meethods =>
