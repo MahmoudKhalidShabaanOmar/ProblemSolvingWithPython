@@ -3,6 +3,8 @@ print("generation all numbers from starting number is \"1\" to the ending number
 print("Number\t\tSquareOfNum\tCubeOfNum\tAdditionOfSquareCubeOfNum")
 for num in range(1 , 11) :
     # print(str(num)+"\t\t"+str(num * num)+"\t\t"+str(num * num * num)+"\t\t"+str((num * num) + (num * num * num)))
+    # print(str(num)+"\t\t"+str(num ** 2)+"\t\t"+str(num ** 3)+"\t\t"+str((num ** 2) + (num ** 3)))
+    # print(str(num)+"\t\t"+str(pow(num , 2))+"\t\t"+str(pow(num , 3))+"\t\t"+str((pow(num , 2)) + pow(num , 3)))
     # square_of_num = num * num 
     # square_of_num = num ** 2
     square_of_num = pow(num , 2)
